@@ -57,7 +57,7 @@ class site_info{
             '首页','/'
         ),
         array(
-            '博客','https://www.ouorz.com'
+            '博客','https://omgxblog.onrender.com'
         ),
         array(
             '伙伴','/archives.php?cate=伙伴链接'
